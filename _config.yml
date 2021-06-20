@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: 碳基生物
+description: Make Every Day Count.
+url: https://shuangjiang169.github.io/myrica.github.io/
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: myrica
+  url: https://github.com/shuangjiang169
+  email: anny169@foxmail.com
