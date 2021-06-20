@@ -11,7 +11,7 @@
     {% for share in site.data.share.platforms %}
       {% assign link = share.link | replace: 'TITLE', title | replace: 'URL', url %}
         <a href="{{ link }}" data-toggle="tooltip" data-placement="top"
-          title="{{ share.type1 }}" target="_blank" rel="noopener" aria-label="{{ share.type }}">
+          title="{{ share.type }}" target="_blank" rel="noopener" aria-label="{{ share.type }}">
           <i class="fa-fw {{ share.icon }}"></i>
         </a>
     {% endfor %}
